@@ -35,10 +35,6 @@ Este proyecto es la parte del frontend de la aplicación web para monitorear y c
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para cualquier mejora o corrección.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 ```
 
 ### Contenido del archivo `.gitignore` (sismologia_app/.gitignore)
