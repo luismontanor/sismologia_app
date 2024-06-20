@@ -60,5 +60,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 ```
-
-Este archivo `.gitignore` asegurará que la carpeta `node_modules` y otros archivos innecesarios no sean incluidos en tu repositorio de Git.
